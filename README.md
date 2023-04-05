@@ -4,22 +4,6 @@
 
 * none yet 
 
-## Hand-in
-
-When you're done, you'll hand in a `*.zip` file containing `main.py`,
-`main.csv`, and any `.html` files necessary (basically whatever we need 
-to run your website).
-
-You can create a `*.zip` file from the terminal. Let's say you're already in 
-a directory named `p4`. You can run this to create a compressed `p4.zip`
-file alongside your directory by typing in:
-
-```
-zip ../p4.zip main.py main.csv *.html
-```
-
-**Important:** make sure your program is named `main.py`. 
-
 ## Testing
 Run `python3 tester.py` inside of your `p4` directory (your program must be named `main.py`) and work on fixing any issues.
 
