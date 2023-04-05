@@ -1,4 +1,4 @@
-# Project 4: Building a Data Website
+# Building a Data Website
 
 ## Corrections/Clarifications
 
